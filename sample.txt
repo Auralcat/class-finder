@@ -1,0 +1,8 @@
+a.b.FooBarBaz
+c.d.FooBar
+
+TelephoneOperator
+ScubaArgentineOperator
+       YoureLeavingUsHere
+   YouveComeToThisPoint
+YourEyesAreSpinningInTheirSockets

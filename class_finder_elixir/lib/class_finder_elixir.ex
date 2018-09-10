@@ -1,0 +1,2 @@
+defmodule ClassFinderElixir do
+end
